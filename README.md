@@ -18,7 +18,7 @@ dependencies before coding along.
 > **Note:** This code-along has been set up as a Rails app for you, so you will
 > be running all the terminal commands inside the lesson directory.
 
-<!-- ## Video Walkthrough -->
+<!-- ## Video Walk-through -->
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/AYr7juVVz7g?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe> -->
 
 ## Active Record's Role
